@@ -50,4 +50,4 @@ receivers:
 
 Grafana webhook alerts can be sent to the same endpoint or `http://127.0.0.1:9087/grafana`.
 
-<!-- generated: 2026-09-20 -->
+<!-- generated: 2026-09-21 -->
